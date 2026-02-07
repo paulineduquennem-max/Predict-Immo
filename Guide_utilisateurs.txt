@@ -1,0 +1,35 @@
+Bienvenue sur votre outil d'aide à la décision. Ce dashboard a été conçu pour optimiser vos campagnes de prospection immobilière sur la métropole bordelaise.
+
+**1. Stratégie Macro : Le Palmarès**
+À l'ouverture de l'application, vous visualisez le Palmarès des quartiers.
+
+**Quoi regarder ?** Les scores moyens les plus élevés indiquent les quartiers où le potentiel de rotation et la qualité du parc immobilier sont les plus forts.
+
+**L'objectif :** Prioriser vos efforts sur les zones à forte valeur ajoutée avant de descendre sur le terrain.
+
+**2. Ciblage Tactique : Le Focus Quartier**
+Utilisez le menu déroulant "🔍 Sélectionner un quartier" pour isoler une zone (ex: Caudéran ou Nansouty).
+
+Zoom automatique : La carte se centre et s'adapte à la taille du quartier.
+
+Nettoyage visuel : Les couleurs des autres quartiers disparaissent pour vous permettre de vous concentrer uniquement sur votre zone de prospection.
+
+Indicateurs clés : Le bandeau supérieur affiche instantanément la typologie du quartier (Part des propriétaires, ratio maisons/appartements).
+
+**3. Analyse Chirurgicale : L'Infobulle (Tooltip)**
+C'est ici que se trouve votre avantage concurrentiel. Survolez avec votre souris les différents secteurs colorés sur la carte :
+
+🎯 Score Précis : Identifiez les micro-secteurs (GID) les plus prometteurs au sein d'un même quartier.
+
+⚡ Diagnostic DPE : Visualisez la répartition énergétique réelle du bloc de rues pour anticiper les besoins en rénovation (argument de vente majeur).
+
+👥 Profil Socio-Démo : Vérifiez si le secteur est plutôt composé de jeunes actifs ou de séniors pour adapter votre discours commercial.
+
+🏠 Typologie de logements : Déterminer si le secteur abrite plutôt des maisons ou des appartements et des propriétaires ou des locataires. 
+
+💡 Conseils de prospection :
+Zones Rouges/Oranges : Forte probabilité de transactions ou potentiel de valorisation élevé.
+
+Forte part de Locataires : Idéal pour la gestion locative ou pour cibler des investisseurs.
+
+DPE E, F, G : Cible prioritaire pour les conseillers spécialisés dans la rénovation énergétique ou pour dénicher des biens "passoires thermiques" à négocier.
