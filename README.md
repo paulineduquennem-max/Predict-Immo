@@ -1,6 +1,6 @@
 # 🏠 Outil de Scoring Immobilier — Optimisation de la Prospection (Bordeaux)
 
-![Aperçu de l'outil de scoring immobilier](Capture%20d'écran%202026-02-20%20112535.jpg)
+<img width="1503" height="826" alt="Capture d&#39;écran 2026-02-20 112535" src="https://github.com/user-attachments/assets/41232db4-bd9e-4efa-ba0d-bcf88059ab29" />
 
 ## 📌 Contexte du Projet
 Ce projet a été développé dans le cadre de ma formation de Data Analyst à la Wild Code School. L'objectif était de concevoir un outil décisionnel à destination des professionnels de l'immobilier pour optimiser leur prospection terrain sur la ville de Bordeaux. Il leur permet de repérer rapidement les zones géographiques ayant la plus forte probabilité de voir des biens mis en vente, afin de se positionner en amont sur le marché caché et d'obtenir des mandats exclusifs.
